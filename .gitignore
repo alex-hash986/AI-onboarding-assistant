@@ -1,0 +1,8 @@
+
+.env
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+tests/eval_results.json
